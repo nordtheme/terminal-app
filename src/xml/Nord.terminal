@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+Copyright (c) 2016-present Sven Greb <development@svengreb.de>
+This source code is licensed under the MIT license found in the license file.
+-->
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -160,9 +164,9 @@
 	ABkAAAAAAAAAAAAAAAAAAADY
 	</data>
 	<key>BackgroundSettingsForInactiveWindows</key>
-	<true/>
+	<true />
 	<key>CursorBlink</key>
-	<true/>
+	<true />
 	<key>CursorColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -213,7 +217,7 @@
 	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
 	<key>UseBrightBold</key>
-	<false/>
+	<false />
 	<key>WindowTitle</key>
 	<string>Nord</string>
 	<key>name</key>
